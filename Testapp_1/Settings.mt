@@ -1,0 +1,1 @@
+Image "More options" tap

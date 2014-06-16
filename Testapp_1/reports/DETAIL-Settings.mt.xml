@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<detail  generated="2014-06-16 14:00:11.917 IST" projectPath="/Users/Vinothini/Documents/monkeytalk/workspace/Testapp_1" agent="AndroidEmulator v2.0.5_423 - 2014-05-15 08:30:00 MDT" runner="Runner v2.0.5_423 - 2014-05-15 08:30:00 MDT">
+    <script  comp="Script" id="Settings.mt" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script Settings.mt Run %thinktime=500 %timeout=2000" idx="1" start="1402907411175" stop="1402907411659" duration="0.484" result="ok">
+        <cmd  comp="Image" id="More options" action="tap" mods="%thinktime=1 %timeout=5000" raw="Image &quot;More options&quot; tap %thinktime=1 %timeout=5000" idx="2" start="1402907411208" stop="1402907411651" duration="0.443" result="ok">
+        </cmd>
+    </script>
+</detail>
